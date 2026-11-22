@@ -1,5 +1,6 @@
 <div align="center">
   <h1>DroidDeck</h1>
+  [![Telegram](https://img.shields.io/badge/Telegram-Канал-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/твой_канал)
   <p><strong>Универсальная студия управления Android для Windows в стиле Material 3 Expressive</strong></p>
 
   <p>

@@ -1,6 +1,5 @@
 <div align="center">
   <h1>DroidDeck</h1>
-  [![Telegram](https://img.shields.io/badge/Telegram-Канал-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/attackdroiddeck)
   <p><strong>Универсальная студия управления Android для Windows в стиле Material 3 Expressive</strong></p>
 
   <p>
@@ -8,6 +7,9 @@
     <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/UI-Material%203%20Expressive-1a6b42?style=for-the-badge&logo=materialdesign&logoColor=white" alt="Material 3" />
     <img src="https://img.shields.io/badge/Android-12--16%20%7C%20HyperOS%20%7C%20AOSP-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+    <a href="https://t.me/attackdroiddeck">
+  <img src="https://img.shields.io/badge/Telegram-%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
   </p>
 </div>
 

@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="icon_raw.png" alt="DroidDeck Logo" width="128" height="128" />
   <h1>DroidDeck</h1>
   <p><strong>Универсальная студия управления Android для Windows в стиле Material 3 Expressive</strong></p>
 
